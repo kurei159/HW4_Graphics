@@ -18,13 +18,13 @@ The new way to add a shape is by the following:
      
       
 # Requirements:
-Eigen 3.1.1 library (Not uploaded here)
-libpng.lib
+Eigen 3.1.1 library (Not uploaded here), 
+libpng.lib, 
 zlib.lib
 
 # Environment:
-Windows 10
-Visual Studio Community 2017
+Windows 10, 
+Visual Studio Community 2017:
   -Windows 8.1 SDK
   -VC++ 2015 V140
   
