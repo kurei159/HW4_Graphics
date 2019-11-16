@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\yes11\documents\graphics\hw4-starter-code\include\image.h(46): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\yes11\documents\graphics\hw4-starter-code\include\image.h(47): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+zlib.lib(adler32.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(adler32.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+zlib.lib(crc32.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(crc32.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+zlib.lib(deflate.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(deflate.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+zlib.lib(inflate.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(inflate.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+zlib.lib(inftrees.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(inftrees.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+zlib.lib(inffast.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(inffast.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+zlib.lib(trees.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(trees.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+zlib.lib(zutil.obj) : warning LNK4099: PDB 'zlib.pdb' was not found with 'zlib.lib(zutil.obj)' or at 'C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\zlib.pdb'; linking object as if no debug info
+  HW4-starter-code.vcxproj -> C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\HW4-starter-code.exe
+  HW4-starter-code.vcxproj -> C:\Users\yes11\Documents\Graphics\hw4-starter-code\x64\Debug\HW4-starter-code.pdb (Partial PDB)
