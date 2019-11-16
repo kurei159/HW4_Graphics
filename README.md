@@ -10,6 +10,8 @@ Major edits made on Scene.cpp, giving Phong Shading and Shadow Support. (Reflect
 Minor edits were made on Shape, and Sphere files. These were done to allow color and reflection options, however reflection is incomplete.
 
 The new way to add a shape is by the following:
+
+
     scene.addShape(new Sphere(center, radius, Sphere Color, mirror));
       Where center and Sphere Color being Vector3's, radius being a double, and mirror being a boolean.
     
